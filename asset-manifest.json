@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/nadeemkhanrtm1/formvalidation.git/static/css/main.5f361e03.chunk.css",
+    "main.js": "/nadeemkhanrtm1/formvalidation.git/static/js/main.a1eb51fc.chunk.js",
+    "main.js.map": "/nadeemkhanrtm1/formvalidation.git/static/js/main.a1eb51fc.chunk.js.map",
+    "runtime-main.js": "/nadeemkhanrtm1/formvalidation.git/static/js/runtime-main.a2c11966.js",
+    "runtime-main.js.map": "/nadeemkhanrtm1/formvalidation.git/static/js/runtime-main.a2c11966.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/nadeemkhanrtm1/formvalidation.git/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.df2006e6.chunk.js": "/nadeemkhanrtm1/formvalidation.git/static/js/2.df2006e6.chunk.js",
+    "static/js/2.df2006e6.chunk.js.map": "/nadeemkhanrtm1/formvalidation.git/static/js/2.df2006e6.chunk.js.map",
+    "index.html": "/nadeemkhanrtm1/formvalidation.git/index.html",
+    "precache-manifest.eca996d5c69843b72471d2e5aa1a548e.js": "/nadeemkhanrtm1/formvalidation.git/precache-manifest.eca996d5c69843b72471d2e5aa1a548e.js",
+    "service-worker.js": "/nadeemkhanrtm1/formvalidation.git/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/nadeemkhanrtm1/formvalidation.git/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/nadeemkhanrtm1/formvalidation.git/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.df2006e6.chunk.js.LICENSE.txt": "/nadeemkhanrtm1/formvalidation.git/static/js/2.df2006e6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2c11966.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.df2006e6.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.a1eb51fc.chunk.js"
+  ]
+}
